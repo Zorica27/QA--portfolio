@@ -1,5 +1,3 @@
-1.Kreirajte doc fajl u vasem folderu
-2.Ispod svakog zadatka napisite upit za baze koje se nalaze u folderu [SQL zadatak 6 nedelja](https://drive.google.com/drive/u/0/folders/1ZFOZQSBvch3xxxOH4PDfprvCQHp018cF)
 
 1. Ispišite ime, prezime, patronus svih likova koji imaju patronusa i on je poznat.-
 
